@@ -1,0 +1,33 @@
+{
+  "name": "BNB",
+  "logoURI": "https://static-file-1259603563.file.myqcloud.com/static/images/home/coin-logo/BNB.png",
+  "keywords": [
+      "bnb",
+      "BNB",
+      "yield"
+    ],
+    "timestamp": "2020-10-09T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg" 
+      },
+      {
+      "chainId": 1,
+      "address": "0x805c169ae4b963d0103102d809f8434bdb7d9c68",
+      "name": " SHR Coin",
+      "symbol": "SHR",
+      "decimals": 18,
+      "logoURI": "https://www.fibtc.com/src/images/coin/coin-shc.png" 
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
